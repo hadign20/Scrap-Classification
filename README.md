@@ -16,3 +16,12 @@ The dataset and pre-trained models used in paper "Ammunition Component Classific
 
 
 
+### Citation
+```
+@article{ghahremannezhad2022ammunition,
+  title={Ammunition Component Classification Using Deep Learning},
+  author={Ghahremannezhad, Hadi and Liu, Chengjun and Shi, Hang},
+  journal={arXiv preprint arXiv:2208.12863},
+  year={2022}
+}
+```
